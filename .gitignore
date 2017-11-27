@@ -1,0 +1,8 @@
+.coverage
+.pipcache
+gatelogic.egg-info/
+venv
+*_sub.txt
+*_res.txt
+*.pyc
+doc_html
